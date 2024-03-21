@@ -56,6 +56,7 @@ function addToCart(name, price){
         })
     }
 
+    updateCartModal()
    
 }
 

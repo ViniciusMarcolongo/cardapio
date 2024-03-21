@@ -9,3 +9,7 @@ body{
 #close-modal-btn:active{
     color: #EF4444;
 }
+.remove-from-cart-btn:active {
+
+    color: red;
+}
